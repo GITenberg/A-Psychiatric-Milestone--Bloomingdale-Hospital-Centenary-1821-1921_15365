@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6022'
     url: http://www.gutenberg.org/2009/agents/6022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15365#A-Psychiatric-Milestone--Bloomingdale-Hospital-Centenary-1821-1921
 gutenberg_issued: '2005-03-14'
 gutenberg_type: Text
 identifiers:
