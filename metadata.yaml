@@ -1,0 +1,28 @@
+_repo: A-Psychiatric-Milestone--Bloomingdale-Hospital-Centenary-1821-1921_15365
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: New York Hospital. Society
+    gutenberg_agent_id: '6022'
+    url: http://www.gutenberg.org/2009/agents/6022
+description: ''
+gutenberg_issued: '2005-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15365'
+  lccn: '22000672'
+language: en
+publication_note: '[New York] :  Privately printed by The Society of the New York
+  Hospital,  1921'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Mental illness'
+- !lcsh 'Bloomingdale Asylum for the Insane'
+title: 'A Psychiatric Milestone: Bloomingdale Hospital Centenary, 1821-1921'
+url: http://www.gutenberg.org/ebooks/15365
